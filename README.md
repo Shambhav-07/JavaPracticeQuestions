@@ -21,6 +21,22 @@ This repository contains basic Java array problems for practice. Each problem is
 13. **Search for an element (Linear Search)**
 14. **Check if array contains a value**
 15. **Count occurrences of an element**
+16. **Find second largest element**
+17.**Find second smallest element**
+18.**Sort array in ascending order**
+19.**Sort array in descending order**
+20.**Remove duplicates from array**
+21.**Merge two arrays**
+22.**Compare two arrays**
+23.**Left rotate an array**
+24.**Right rotate an array**
+25.**Find frequency of all elements**
+26. **Print elements at even positions**
+27. **Print elements at odd positions**
+28. **Swap first and last elements**
+29. **Separate even and odd elements**
+30. **Find missing number from 1 to N**
+
 
 ---
 
