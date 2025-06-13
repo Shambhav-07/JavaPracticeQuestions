@@ -11,6 +11,17 @@ public class SingleLinkedList {
     public static Node tail;
     public static int size;
 
+
+    public int countNode(){
+        int count =0;
+        Node temp =head;
+
+        while(temp!=null){
+            count++;
+            temp=temp.next;
+        }
+        return count;
+    }
     public void insertAtBeg(int data){
         Node newNode = new Node(data);
         newNode.next=head;
@@ -79,5 +90,6 @@ public class SingleLinkedList {
         ll.display();
         ll.insertATNPostion(head,6, 3);
         ll.display();
+        System.out.println( ll.countNode());
     }
 }
